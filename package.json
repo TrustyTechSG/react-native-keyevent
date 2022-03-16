@@ -22,7 +22,8 @@
     "url": "https://github.com/kevinejohn/react-native-keyevent/issues"
   },
   "peerDependencies": {
-    "react-native": ">=0.30"
+    "react-native": ">=0.30",
+    "expo": "*"
   },
   "rnpm": {
     "android": {
